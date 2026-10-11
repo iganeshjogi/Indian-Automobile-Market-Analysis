@@ -163,7 +163,6 @@ The Power BI dashboard complements the Python analysis by presenting key metrics
 ```text
 indian-automobile-market-analysis/
 ├── Indian_Automobile_Market_Analysis.ipynb
-├── README.md
 ├── data/
 │   └── indian_vehicle_data.csv
 └── README.md
