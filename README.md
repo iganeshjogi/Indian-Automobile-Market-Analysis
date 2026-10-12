@@ -161,7 +161,7 @@ The Power BI dashboard complements the Python analysis by presenting key metrics
 ## 📁 Suggested Repository Structure
 
 ```text
-indian-automobile-market-analysis/
+Indian-Automobile-Market-Analysis-EDA/
 ├── Indian_Automobile_Market_Analysis.ipynb
 ├── data/
 │   └── indian_vehicle_data.csv
